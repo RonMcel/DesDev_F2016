@@ -1,3 +1,3 @@
-# Design Development Class - Fall 2016 SLAS
-
-## This is the repository for all deliverables for fall term 2016 of SLAS's Design Development class (Tues 2-5pm). Each student has a separate branch. This is where students store, manage, and submit classwork.
+#Objectives and deliverables
+#
+## My plan for this class is to learn how to design, write and publish apps for the Android OS.  My deliverable for this class will be a working app that can be ported to the real world.  At this time it will be a small game of some kind.  
